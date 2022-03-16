@@ -1,0 +1,6 @@
+export enum UserRole {
+  ADMIN = 'ADMIN',
+  USER = 'USER',
+  NOT_CONFIRMED = 'NOT_CONFIRMED',
+  NOT_VERIFIED = 'NOT_VERIFIED',
+}
